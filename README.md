@@ -48,12 +48,12 @@
 
 ### My Stats: 🔥💙
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matinst&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinst&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matin_jamshidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
 
 [instagram]: https://www.instagram.com/matn_jm
 [linkedin]: https://www.linkedin.com/in/matin-jamshidi-100a63221
