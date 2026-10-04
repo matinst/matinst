@@ -1,6 +1,6 @@
 ### Hi there, I'm Matin 💙
 
-## I'm a Software engineer and Computer Engineering Student 💙
+## a Software engineer
 
 - Working at Home 🏠
 
@@ -39,7 +39,6 @@
 
 ### Connect with me: 💙
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 ---
@@ -49,12 +48,8 @@
 ### My Stats: 🔥💙
 [![GitHub Streak](https://streak-stats.demolab.com?user=matinst&theme=dark)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinst&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matin_jamshidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 
 
-[instagram]: https://www.instagram.com/matn_jm
+[instagram]: https://www.instagram.com/_matinjm_pv
 [linkedin]: https://www.linkedin.com/in/matin-jamshidi-100a63221
-[telegram]: https://t.me/matincode
+[telegram]: https://t.me/matinjmcode
